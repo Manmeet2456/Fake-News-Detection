@@ -1,5 +1,6 @@
 # Virtual Environment
 .venv/
+fake_news_env/
 venv/
 env/
 ENV/

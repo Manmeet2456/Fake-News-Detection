@@ -61,13 +61,13 @@ cd Fake-News-Detection
 
 ### 2. Set Up Virtual Environment
 ```bash
-python -m venv .venv
+python -m venv fake_news_env
 
 # On Windows
-.venv\Scripts\activate
+fake_news_env\Scripts\activate
 
 # On Linux/macOS
-source .venv/bin/activate
+source fake_news_env/bin/activate
 ```
 
 ### 3. Install Dependencies
