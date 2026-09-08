@@ -1,0 +1,33 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Large dataset files (exceeds recommended Git file sizes)
+*.csv
+!sample_news.csv
+
+# Large trained models (optional, uncomment if tracking via releases/storage)
+# *.joblib
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
