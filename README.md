@@ -79,6 +79,7 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook Fake_news_detection.ipynb
 ```
+> Select the **`Python 3 (Fake News Detection)`** kernel when prompted in Jupyter or VS Code.
 
 ---
 
